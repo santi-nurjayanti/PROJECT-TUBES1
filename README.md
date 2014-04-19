@@ -6,7 +6,7 @@
 
 **Source** : **[Wikipedia](http://en.wikipedia.org/wiki/GitHub)**
 
-"GitHub adalah layanan berbasis web hosting untuk proyek-proyek pengembangan perangkat lunak yang menggunakan sistem kontrol Git. GitHub menawarkan perencanaan repositori pribadi untuk dibayar, dan akun gratis untuk proyek-proyek open source. Situs ini diluncurkan pada tahun 2008 oleh Tom Preston-Werner, Chris Wanstrath, dan PJ Hyett."
+"GitHub adalah layanan berbasis web hosting untuk proyek-proyek pengembangan perangkat lunak yang menggunakan sistem kontrol Git. GitHub menawarkan perencanaan repositori pribadi  berbayar, dan akun gratis untuk proyek-proyek open source. Situs ini diluncurkan pada tahun 2008 oleh Tom Preston-Werner, Chris Wanstrath, dan PJ Hyett."
 
 **[Kelompok Kami](Anggota_Kelompok.md)**
 

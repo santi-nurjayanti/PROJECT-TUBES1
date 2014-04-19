@@ -1,7 +1,7 @@
 +=====================================+
 +====ANGGOTA KELOMPOK LAYANAN WEB=====+
 +============+========================+
-+   NPM      +      Nama Lengkap       +
++   NPM      +      Nama Lengkap      +
 +============+========================+
 + 117006111  +	Erik Ginanjar	      +
 + 117006114  +	Nita Paramita	      +

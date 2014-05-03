@@ -1,6 +1,6 @@
 <?php
 $dom = new DomDocument;
-$dom->loadHTMLFile("http://news.detik.com/pemilu2014/read/2014/04/27/233607/2566868/1562/data-berantakan-rekap-dari-kpu-jawa-barat-ditunda?9911012");
+$dom->loadHTMLFile("http://detik.feedsportal.com/c/33613/f/656098/index.rss");
 $xpath = /html/body/div[2]/div[4]/div/div[7]/div[2]/img/@src;
 $judul = $xpath->query("/html/body/div[2]/div[4]/div/h1");
 foreach ($judul as $jdl) {
